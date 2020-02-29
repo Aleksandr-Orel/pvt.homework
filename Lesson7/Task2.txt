@@ -1,0 +1,17 @@
+(//span[@class="x-ph__link__text"])[2]			-	Мой Мир
+//i[@class="x-ph__menu__button__text"]			-	Все проекты
+//a[@data-name="pictures"]				-	Картинки
+//label[@class="search__icon"]				-	Значок поиск
+//input[contains(@class, 'btn_orange search')]		-	Кнопка Найти
+//a[@href="//lady.mail.ru/"]				-	Леди
+//*[contains(@class,'button tabs__dropdown')]		- 	"..."
+//a[@href="https://promo.calendar.mail.ru/"]		-	Значок календарь
+//input[@id="mailbox:login"]				-	Поле "Имя ящика"
+//input[@id="mailbox:saveauth"]				-	Чек-бокс "Запомнить"
+//a[contains(@href, 'https://cloud.mail.ru/') and  @class="o-media projects-item"]	-
+	ссылка на облако(вместо ICQ)
+//div[@class="grid__lcol i-pull-left"]			-	Установка браузера Атом
+(//a[@href="//sportmail.ru"])[3]			-	Спорт
+//a[contains(@class, "tgb__link")]			-	Реклама
+(//a[@href="https://news.mail.ru/currency/"])[1]	-	Курс $
+//a[@href="//corp.mail.ru/"]				-	О компании

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+  <head>    
+    <title>Давай поиграем</title>
+    <link href="style.css" rel="stylesheet">
+    <style>
+	header {      
+          color:red;
+        }
+	body {
+  	  padding: 0 30px;
+  	  font-size: 16px;
+  	  line-height: 26px;
+  	  font-family: "Arial", sans-serif;
+  	  color: white;
+          background: #0099ef;
+	  background-image: url(https://images.by.prom.st/72003044_fotooboi-kirpichnaya-stena.jpg);
+        }	
+        footer {
+          margin-top: 10px;
+          color:red;
+        }
+    </style>        
+  </head>
+
+  <body>
+    <header>      
+      <marquee behavior="scroll" direction="left" scrollamount="10" style="color: #D9470D; 		
+	font-size: 40px; font-weight: bolder; 
+	line-height: 150%; text-shadow: #000000 1px;">I want to play</marquee>      
+    </header>
+    <main>
+      <table>
+	<tr>
+	<td>    
+ <img style="border-radius: 50%" src="https://cs9.pikabu.ru/post_img/big/2017/10/29/1/1509228890145619165.jpg" width="380" 	height="280" alt="Аватарка">
+	</td>
+	<td>
+<p class="post"> Where are we going to play?</p>
+<p class="post"> Choose а door!</p>
+	</td>
+	</tr>
+	<tr>
+	<td> <a href="1.html"><img src="https://museum-design.ru/wp-content/uploads/most-beautiful-doors-the-world-23.jpg" width="270" height="300"></a></td>
+	<td> <a href="2.html"><img src="https://mayak.org.ua/wp-content/uploads/2019/04/Spiridonovskaja-21-Kuznechnaja-34.jpg?resize=2048%2C1362 width="270" height="300"" alt="Open the door"></a></td>
+    </table>
+    </main>    
+  </body>
+</html>

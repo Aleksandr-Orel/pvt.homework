@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+
+<title>ВЫБОР СДЕЛАН</title>
+<a href="Main_page.html"><img src="https://ru.seaicons.com/wp-content/uploads/2015/11/arrow-back-icon.png" width="30" height="30"></a>     
+</head>
+
+<body>
+<body style="background-image:url(https://multifandom.ru/pic/201502/1920x1200/multifandom.ru-495.jpg); background-size: cover">
+    <header>  
+	<table style="background: red">
+	<tr>
+	<td>
+	 <img src="https://cs9.pikabu.ru/post_img/big/2017/10/29/1/1509228890145619165.jpg" width="120" height="100">
+	</td>
+	<td>
+	 <p style="color: white; font-size: 20px; line-height: normal">Great! You'll like this place! </p>
+	</td>
+	</tr>
+	</table>
+    </header>
+<iframe width="300" height="150" src="https://metro.co.uk/video/embed/1611564" allowfullscreen>
+</iframe>
+</body>
+
+</html>

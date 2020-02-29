@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8006d962-7ced-434c-80f3-fc0ecea6341a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lesson12/Lesson12.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/EmailMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/EmailMainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/EmailMainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/EmailMainPageTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Java_lessons\SecondCourse\Lesson10\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y2FycdSjEZLk09c1A6AMWOfH1z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lesson12" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.EmailMainPageTest.cancelCheckSomeMassages">
+    <configuration name="EmailMainPageTest.cancelCheckSomeMassages" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Pages" />
+      <option name="MAIN_CLASS_NAME" value="Pages.EmailMainPageTest" />
+      <option name="METHOD_NAME" value="cancelCheckSomeMassages" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailMainPageTest.checkSomeMessages" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Pages" />
+      <option name="MAIN_CLASS_NAME" value="Pages.EmailMainPageTest" />
+      <option name="METHOD_NAME" value="checkSomeMessages" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailMainPageTest.putMessageToSpam" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Pages" />
+      <option name="MAIN_CLASS_NAME" value="Pages.EmailMainPageTest" />
+      <option name="METHOD_NAME" value="putMessageToSpam" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailMainPageTest.removeMessageFromSpam" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Pages" />
+      <option name="MAIN_CLASS_NAME" value="Pages.EmailMainPageTest" />
+      <option name="METHOD_NAME" value="removeMessageFromSpam" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailMainPageTest.sentMessageToSomeUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Pages" />
+      <option name="MAIN_CLASS_NAME" value="Pages.EmailMainPageTest" />
+      <option name="METHOD_NAME" value="sentMessageToSomeUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.EmailMainPageTest.removeMessageFromSpam" />
+      <item itemvalue="JUnit.EmailMainPageTest.putMessageToSpam" />
+      <item itemvalue="JUnit.EmailMainPageTest.sentMessageToSomeUsers" />
+      <item itemvalue="JUnit.EmailMainPageTest.checkSomeMessages" />
+      <item itemvalue="JUnit.EmailMainPageTest.cancelCheckSomeMassages" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmailMainPageTest.cancelCheckSomeMassages" />
+        <item itemvalue="JUnit.EmailMainPageTest.checkSomeMessages" />
+        <item itemvalue="JUnit.EmailMainPageTest.sentMessageToSomeUsers" />
+        <item itemvalue="JUnit.EmailMainPageTest.removeMessageFromSpam" />
+        <item itemvalue="JUnit.EmailMainPageTest.putMessageToSpam" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8006d962-7ced-434c-80f3-fc0ecea6341a" name="Default Changelist" comment="" />
+      <created>1582133037141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582133037141</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582287610562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.-469.2048.1112@0.0.1536.824" timestamp="1582287610562" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1582220501984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582220501984" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582287607111">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/1920.-469.2048.1112@0.0.1536.824" timestamp="1582287607111" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582215414662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582215414662" />
+    <state x="516" y="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582874013456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824/1920.-469.2048.1112@0.0.1536.824" timestamp="1582874013456" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1582962521820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.-469.2048.1112@0.0.1536.824" timestamp="1582962521820" />
+    <state x="2652" y="-244" key="FileChooserDialogImpl/0.0.1536.824/1920.-469.2048.1112@1920.-469.2048.1112" timestamp="1582892558590" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582825579806" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582880262768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-469.2048.1112@0.0.1536.824" timestamp="1582880262768" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582802749787" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582880262768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.-469.2048.1112@0.0.1536.824" timestamp="1582880262768" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582802749787" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582880262768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.-469.2048.1112@0.0.1536.824" timestamp="1582880262768" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582802749787" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582880262768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.-469.2048.1112@0.0.1536.824" timestamp="1582880262768" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582802749787" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1582741337691">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582741337691" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1582741337690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582741337690" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1582741337690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582741337690" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1582741337691">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582741337691" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1582654435118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582654435118" />
+    <state x="209" y="108" key="new project wizard" timestamp="1582879605900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="108" key="new project wizard/0.0.1536.824/1920.-469.2048.1112@0.0.1536.824" timestamp="1582879605900" />
+    <state x="209" y="108" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582650124229" />
+    <state x="475" y="31" key="refactoring.ChangeSignatureDialog" timestamp="1582185505407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="31" key="refactoring.ChangeSignatureDialog/0.0.1536.824/1920.-469.2048.1112@0.0.1536.824" timestamp="1582185505407" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lesson10$EmailMainPageTest_putMassageToSpam.ic" NAME="EmailMainPageTest.putMassageToSpam Coverage Results" MODIFIED="1582731330626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Pages.*</FILTER>
+    </SUITE>
+  </component>
+</project>
