@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Messages>
+    <Message id="1">
+        <destinationAddress>null</destinationAddress>
+        <messageHeading>null</messageHeading>
+        <messageText>this is test message</messageText>
+    </Message>
+    <Message id="2">
+        <destinationAddress>null</destinationAddress>
+        <messageHeading>test message heading</messageHeading>
+        <messageText>null</messageText>
+    </Message>
+    <Message id="3">
+        <destinationAddress>wrong_address</destinationAddress>
+        <messageHeading>test message heading</messageHeading>
+        <messageText>this is test message</messageText>
+    </Message>
+</Messages>
