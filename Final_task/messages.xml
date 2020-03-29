@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Messages>
+    <Message id="1">
+        <destinationAddress>Aleksand_or92@mail.ru</destinationAddress>
+        <messageHeading>test message heading</messageHeading>
+        <messageText>this is test message</messageText>
+    </Message>
+</Messages>

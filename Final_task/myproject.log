@@ -1,0 +1,16 @@
+2020-03-21 00:30:15 INFO  PageTest:32 - create WebDriver
+2020-03-21 00:30:25 INFO  PageTest:59 - delete message
+2020-03-21 00:30:26 INFO  PageTest:61 - open basket
+2020-03-21 00:30:27 INFO  PageTest:48 - close WebDriver
+2020-03-21 00:36:25 INFO  PageTest:32 - create WebDriver
+2020-03-21 00:36:39 INFO  PageTest:59 - delete message
+2020-03-21 00:36:40 INFO  PageTest:61 - open basket
+2020-03-21 00:36:41 INFO  PageTest:48 - close WebDriver
+2020-03-21 08:56:26 INFO  PageTest:31 - create WebDriver
+2020-03-21 08:56:37 INFO  PageTest:58 - delete message
+2020-03-21 08:56:38 INFO  PageTest:60 - open basket
+2020-03-21 08:56:38 INFO  PageTest:47 - close WebDriver
+2020-03-21 08:57:08 INFO  PageTest:31 - create WebDriver
+2020-03-21 08:57:21 INFO  PageTest:58 - delete message
+2020-03-21 08:57:21 INFO  PageTest:60 - open basket
+2020-03-21 08:57:22 INFO  PageTest:47 - close WebDriver
